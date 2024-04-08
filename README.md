@@ -15,7 +15,7 @@ Simple keylogger application implemented in Python using Tkinter for the GUI and
 
 ```bash
 # Clone this Repository
-git clone https://github.com/satz1230/keylogger.git
+git clone https://github.com/Sarathydass/keylogger.git
 cd keylogger
 
 # Create venv and install dependencies
